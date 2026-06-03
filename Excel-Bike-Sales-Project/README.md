@@ -20,3 +20,7 @@ Bike Sales Dataset
 
 ## Tools
 Microsoft Excel
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
