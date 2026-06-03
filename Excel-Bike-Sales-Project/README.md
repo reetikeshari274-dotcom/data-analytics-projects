@@ -24,3 +24,6 @@ Microsoft Excel
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+## Pivot Table Analysis
+
+![Pivot Table](pivot.png)
