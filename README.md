@@ -1,2 +1,2 @@
 # data-analytics-projects
-Beginner data analytics projects using Excel and Python.
+My journey learning Data Analytics using Excel, SQL, Python and Power BI. Includes dashboards, pivot table analysis and data visualization projects.
